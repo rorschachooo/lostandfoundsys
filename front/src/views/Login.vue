@@ -5,7 +5,7 @@ import request from "@/utils/request";
 import {ElMessage} from "element-plus";
 import {useUserStore} from "@/stores/user";
 import router, {setRoutes} from "@/router";
-import SIdentify from '../components/Sidentify.vue';
+import SIdentify from '../components/SIdentify.vue';
 import config from "../../config";
 
 // Graphic verification code
